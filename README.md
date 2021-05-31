@@ -1,5 +1,7 @@
 # reifetch 
 **"Something to do with cats"**
+
+
 ____
 ## ToC
 
@@ -12,11 +14,19 @@ ____
 - [_4. Rename the file_](https://github.com/OkaVatti/reifetch/blob/main/README.md#4-optional-renaming-the-file)
 - [_5. Add to bin_](https://github.com/OkaVatti/reifetch/blob/main/README.md#5-adding-to-your-bin)
 
-[****]
+____
 
 ## About
-**Reifetch** is a work in progress successor to neofetch, made exclusivly for Linux, BSD, and MacOS systems. It's mission is to be faster, lightweight, and way more user friendly. The goal of neofetch is to give it's users a better experience than neofetch. This goal is achieved by trashing all of the useless, obscure distro asciis, keeping some of the most popular options, and getting rid of all windows, ios/ipados, and old UNIX compatabilities. As well as cleaning up the config file and making some of the options a lot easier to access.
 
+Reifetch is not finished
+
+Reifetch is based on Neofetch
+
+The most current version still contains a lot of old Neofetch code and commands
+
+**Reifetch** is a work in progress successor to Neofetch, made exclusivly for Linux, BSD, and MacOS systems. It's mission is to be faster, lightweight, and way more user friendly. The goal of Neofetch is to give it's users a better experience than Neofetch. This goal is achieved by trashing out all of the useless, obscure distro asciis, keeping some of the more popular options, and getting rid of all windows, ios/ipados, and old UNIX OS compatabilities. As well as cleaning up the config file and making some of the options a lot easier to access.
+
+____
  
  ## How to install
  
@@ -68,3 +78,4 @@ mv reifetch.sh /bin
 
 _Obvious Note: if you followed step 4, don't type in the `.sh` at the end of your file_
 
+____
