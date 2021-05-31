@@ -3,7 +3,16 @@
 ____
 ## ToC
 
+[**About**](https://github.com/OkaVatti/reifetch/blob/main/README.md#about)
 
+[**How to install**](https://github.com/OkaVatti/reifetch/blob/main/README.md#How-to-install)
+- [_1. Clone to home_](https://github.com/OkaVatti/reifetch/blob/main/README.md#1-clone-the-repo-to-your-home-directory)
+- [_2. Make executable_](https://github.com/OkaVatti/reifetch/blob/main/README.md#2-make-the-file-executable)
+- [_3. Test the script_](https://github.com/OkaVatti/reifetch/blob/main/README.md#3-optional-test-the-script-to-make-sure-it-works)
+- [_4. Rename the file_](https://github.com/OkaVatti/reifetch/blob/main/README.md#4-optional-renaming-the-file)
+- [_5. Add to bin_](https://github.com/OkaVatti/reifetch/blob/main/README.md#5-adding-to-your-bin)
+
+[****]
 
 ## About
 **Reifetch** is a work in progress successor to neofetch, made exclusivly for Linux, BSD, and MacOS systems. It's mission is to be faster, lightweight, and way more user friendly. The goal of neofetch is to give it's users a better experience than neofetch. This goal is achieved by trashing all of the useless, obscure distro asciis, keeping some of the most popular options, and getting rid of all windows, ios/ipados, and old UNIX compatabilities. As well as cleaning up the config file and making some of the options a lot easier to access.
