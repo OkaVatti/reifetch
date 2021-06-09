@@ -24,7 +24,7 @@ Reifetch is based on Neofetch
 
 The most current version still contains a lot of old Neofetch code and commands
 
-**Reifetch** is a work in progress successor to Neofetch, made exclusivly for Linux, BSD, and MacOS systems. It's mission is to be faster, lightweight, and way more user friendly. The goal of Neofetch is to give it's users a better experience than Neofetch. This goal is achieved by trashing out all of the useless, obscure distro asciis, keeping some of the more popular options, and getting rid of all windows, ios/ipados, and old UNIX OS compatabilities. As well as cleaning up the config file and making some of the options a lot easier to access.
+**reifetch** is a work in progress successor to Neofetch, made exclusivly for Linux, BSD, and MacOS systems. It's mission is to be faster, lightweight, and way more user friendly. The goal of reifetch is to give it's users a better experience than Neofetch. This goal is achieved by trashing out all of the useless, obscure distro asciis, keeping some of the more popular options, and getting rid of all windows, ios/ipados, and old UNIX OS compatabilities. As well as cleaning up the config file and making some of the options a lot easier to access.
 
 ____
  
