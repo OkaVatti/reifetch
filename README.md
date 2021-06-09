@@ -56,7 +56,7 @@ It is recommended that you test out the script to make sure it works with your s
 ``` 
 to check what distros are supported and what asciis are available for your curent version.
 
-If a distro is missing you can message me. (contact info on profile)
+If a distro is missing you can message me (contact info on profile) or you can submit it as an issue. If the distro you suggested is popular enough and used as a daily driver for some people, then it will be added to the ascii list
 
 ### **4. _(optional)_** Renaming the file
 if having the `.sh` at the end of the files bothers you so much then you can rename the file, simply delete the `.sh` from the file
